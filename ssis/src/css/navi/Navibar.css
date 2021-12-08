@@ -1,0 +1,62 @@
+.color-nav {
+  background-color: #96bcf8;
+  height: 50px;
+}
+
+.img-logo {
+  width: 100px;
+  height: 40px;
+  margin-top: 5px;
+  margin-left: 72px;
+  float: left;
+}
+
+.img-person {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+}
+
+.img-alarm {
+  width: 28px;
+  height: 28px;
+  margin-top: 5px;
+}
+
+.user-name-dropdown {
+  color: black;
+}
+
+.navi-person {
+  margin-top: 6px;
+}
+
+.nav-profile {
+  float: right;
+  margin-right: 72px;
+}
+
+.contanier {
+  height: 50px;
+}
+
+.text-person {
+  color: black;
+}
+
+.person-dropButoon {
+  background-color: transparent !important;
+  background-image: none !important;
+  border-color: transparent;
+  border: none;
+  padding: 0;
+}
+
+.person-dropButoon:focus,
+.person-dropButoon:active {
+  padding: 0;
+}
+
+.person-dropButoon::after {
+  display: none;
+}

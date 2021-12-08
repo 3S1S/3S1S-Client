@@ -1,0 +1,111 @@
+.td-details {
+  width: 100%;
+}
+
+.td-infomations {
+  width: 100%;
+  height: auto;
+  padding: 0;
+}
+.td-infomations .left {
+  width: 18%;
+  padding-left: 1px;
+  float: left;
+}
+
+.td-infomations .right {
+  width: 82%;
+  float: right;
+}
+.td-kinds {
+  margin-bottom: 8px;
+  color: gray;
+}
+.td-Info {
+  margin-bottom: 8px;
+}
+
+.tdd-participant-line {
+  margin-top:8px;
+  width: 45%;
+  float:left;
+}
+
+.tdd-participant-img {
+  float :left;
+  width:20px;
+  height:20px;
+  margin-right : 7px;
+  border-radius: 15px;
+}
+
+.td-Info-participants {
+  text-align: left;
+  float: left;
+}
+
+.td-state0 {
+  background-color: #FFD4C4;
+  background-size: 50%;
+  border-radius: 3px;
+  margin-bottom: 8px;
+  padding:3px;
+
+}
+
+.td-state1 {
+  background-color: #DC9BEB;
+  background-size: auto;
+  border-radius: 3px;
+  margin-bottom: 8px;
+  padding:3px;
+
+}
+
+.td-state2 {
+  background-color: #B7EDCD;
+  background-size: auto;
+  border-radius: 3px;
+  margin-bottom: 8px;
+  padding:3px;
+}
+
+.td-delete-button {
+  width: auto;
+  height: auto;
+  background-color: transparent !important;
+  background-image: none !important;
+  border-color: transparent;
+  border: none;
+  margin-right: 20px;
+  margin-top: 5px;
+  padding: 0;
+  float: right;
+}
+
+.td-modify-button {
+  width: auto;
+  height: auto;
+  background-color: transparent !important;
+  background-image: none !important;
+  border-color: transparent;
+  border: none;
+  padding: 0;
+  margin-top: 5px;
+  margin-right: 20px;
+  float: right;
+}
+
+.td-delete-img {
+  width: 20px;
+  height: 20px;
+}
+
+.td-modify-img {
+  width: 20px;
+  height: 20px;
+}
+
+.td-buttons {
+  float: right;
+}

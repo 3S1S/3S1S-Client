@@ -1,0 +1,474 @@
+.Outer_pr {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+
+.Read_pr {
+  display: inline-block;
+  height: 800px;
+  width: 1000px;
+  margin-left: 8%;
+  margin-right: 8%;
+}
+
+.LeftContent_pr {
+  width: 39%;
+  height: 95%;
+  float: left;
+  margin-left: 1%;
+  margin-right: 0.5%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+
+.CenterContent_pr {
+  width: 29%;
+  height: 95%;
+  float: left;
+  margin-left: 0.5%;
+  margin-right: 0.5%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+
+.RightContent_pr {
+  width: 28%;
+  height: 95%;
+  float: left;
+  margin-left: 0.5%;
+  margin-right: 1%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+
+.ProjectInfo_pr {
+  width: 100%;
+  height: 69%;
+  border: 2px solid #9a9fa7;
+  margin-bottom: 1%;
+  border-radius: 0.5em;
+  padding: 1%;
+}
+
+.TeamList_pr {
+  width: 100%;
+  height: 28.8%;
+  border: 2px solid #9a9fa7;
+  margin-bottom: 1%;
+  border-radius: 0.5em;
+  padding: 1%;
+}
+
+.Progress_bar_pr {
+  width: 100%;
+  height: 14%;
+  border: 2px solid #9a9fa7;
+  margin-bottom: 1%;
+  border-radius: 0.5em;
+  padding: 1%;
+}
+
+.Contribution_pr {
+  width: 100%;
+  height: 39%;
+  border: 2px solid #9a9fa7;
+  margin-bottom: 1%;
+  border-radius: 0.5em;
+  padding: 1%;
+}
+
+.Memo_pr {
+  width: 100%;
+  height: 44.5%;
+  border: 2px solid #9a9fa7;
+  background-color: #e5efff;
+  margin-bottom: 1%;
+  border-radius: 0.5em;
+}
+
+.MemoSpan {
+  width: 80%;
+  height: 7%;
+  float: left;
+  text-align: left;
+}
+
+.Memobutton {
+  width: 10%;
+  height: 7%;
+  float: right;
+  margin-top: 3%;
+  margin-right: 3%;
+  background-color: none;
+  border: none;
+  background: transparent;
+  outline: none;
+}
+
+.P_btm_image_memo {
+  width: 18px;
+  height: 18px;
+}
+
+.MemoPage {
+  margin-left: 3%;
+  margin-top: 2%;
+  margin-bottom: 3%;
+  margin-right: 2%;
+  width: 96%;
+  height: 81%;
+  font-family: none;
+  background-color: none;
+  border: none;
+  background: transparent;
+  outline: none;
+  overflow-x: hidden;
+}
+
+.MemoPage::-webkit-scrollbar {
+  width: 5px;
+  background-color: none;
+}
+
+.Alarm {
+  width: 100%;
+  height: 44%;
+  border: 2px solid #9a9fa7;
+  margin-bottom: 1%;
+  border-radius: 0.5em;
+  padding: 1%;
+}
+
+.MyToDo {
+  width: 100%;
+  height: 54%;
+  border: 2px solid #9a9fa7;
+  margin-bottom: 1%;
+  border-radius: 0.5em;
+  padding: 1%;
+}
+
+.P_Title {
+  width: 80%;
+  height: 10%;
+  margin-left: 7%;
+  margin-top: 3%;
+  font-size: 2vw;
+  float: left;
+  text-align: left;
+}
+
+.P_btm {
+  margin-top: 2%;
+  margin-right: 3%;
+  float: right;
+  width: 17px;
+  height: 17px;
+  padding: 0;
+  border: none;
+  background: none;
+}
+
+.P_btm2 {
+  margin-top: 4%;
+  margin-right: 5%;
+  float: right;
+  width: 25px;
+  height: 25px;
+  padding: 0;
+  border: none;
+  background: none;
+}
+
+.P_btm_image {
+  width: 90%;
+  height: 90%;
+}
+
+.P_ImgTeam {
+  width: 100%;
+  height: 200px;
+  vertical-align: middle;
+}
+
+.P_Image {
+  width: 40%;
+  float: left;
+  vertical-align: middle;
+}
+
+.P_Img {
+  margin-left: 7%;
+  margin-top: 5%;
+  border: 1px;
+  border-radius: 30%;
+  width: 100px;
+  height: 100px;
+  float: left;
+}
+
+.P_TeamBox {
+  margin-top: 3%;
+  margin-right: 5%;
+  width: 50%;
+  height: 60%;
+  text-align: center;
+  float: right;
+  vertical-align: middle;
+}
+
+.P_Team {
+  margin-bottom: 5%;
+  font-size: 1.5vw;
+  width: 100%;
+  height: 90%;
+  text-align: center;
+}
+
+.P_content {
+  width: 100%;
+  height: 30px;
+  text-align: left;
+  margin-top: 2%;
+  margin-left: 7%;
+  margin-bottom: 1%;
+}
+
+.P_contentName {
+  width: 50%;
+  height: 30px;
+  text-align: left;
+  margin-top: 4%;
+  margin-left: 7%;
+  margin-bottom: 3%;
+  float: left;
+}
+
+.P_content1 {
+  width: 330px;
+  height: 90px;
+  text-align: left;
+  margin-left: 7%;
+  margin-top: 2%;
+  overflow-x: hidden;
+}
+
+.P_content1::-webkit-scrollbar {
+  width: 5px;
+  background-color: none;
+}
+
+.P_content2 {
+  width: 330px;
+  height: 50px;
+  text-align: left;
+  margin-left: 7%;
+  margin-top: 2%;
+}
+
+.Big {
+  color: black;
+  border-bottom: 5px solid #96bcf8;
+  font-weight: 550;
+}
+
+.P_contentBox {
+  width: 100%;
+  height: 130px;
+  float: left;
+}
+
+.P_contentBox1 {
+  width: 100%;
+  height: 80px;
+  float: left;
+}
+
+.P_teamName {
+  float: left;
+  width: 50%;
+  height: 20%;
+  text-align: center;
+  margin-top: 8%;
+  margin-left: 10%;
+  font-size: 2vw;
+}
+
+.Memberlist_pr {
+  border: 3px solid #dbdfe6;
+  background-color: white;
+  border-radius: 10px;
+  width: 46%;
+  height: 35px;
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  float: left;
+  text-align: left;
+}
+
+.memberImage {
+  margin-left: 3%;
+  margin-top: 1%;
+  width: 25px;
+  height: 25px;
+  float: left;
+  border-radius: 15px;
+}
+
+.MemberSpan {
+  display: inline;
+  margin-left: 4%;
+  margin-top: 4%;
+  height: 30px;
+  width: 70%;
+  overflow: auto;
+}
+
+.MemberSpan::-webkit-scrollbar {
+  width: 5px;
+  background-color: none;
+}
+
+.ContributionSpan1 {
+  margin-left: 4%;
+  margin-top: 1%;
+  height: 30px;
+  float: left;
+}
+
+.ContributionSpan2 {
+  margin-right: 5%;
+  height: 30px;
+  float: right;
+}
+
+.LeaderCrown {
+  width: 20px;
+  height: 20px;
+  margin-top: 2.5%;
+  margin-left: 3px;
+  margin-right: 3%;
+  float: right;
+}
+
+.more_dropButton {
+  background-color: transparent !important;
+  background-image: none !important;
+  border-color: transparent;
+  border: none;
+  padding: 0;
+  height: 30px;
+}
+
+.more_menu {
+  z-index: 10;
+}
+
+.MoreButton {
+  border: none;
+  background: none;
+  float: right;
+  margin-right: 5%;
+  height: auto;
+}
+
+.more_button {
+  margin-bottom: 2%;
+  margin-right: 5%;
+}
+
+.MemberMore {
+  width: 15px;
+  height: 15px;
+  margin-bottom: 1%;
+}
+
+.ProgressBar_pr {
+  width: 90%;
+  height: 30px;
+  margin-top: 3%;
+}
+
+.P_progressRate {
+  float: right;
+  margin-top: 4%;
+  margin-bottom: 1%;
+  margin-right: 7%;
+}
+
+.MemberContribution {
+  border: 3px solid #dbdfe6;
+  background-color: white;
+  border-radius: 10px;
+  width: 94%;
+  height: 35px;
+  margin-left: 3%;
+  margin-right: 3%;
+  margin-top: 3%;
+  margin-bottom: 1%;
+  float: left;
+  text-align: left;
+}
+
+.AlertNum {
+  float: right;
+  width: 30px;
+  margin-top: 4%;
+  margin-bottom: 1%;
+  margin-right: 6%;
+  color: white;
+  background-color: red;
+  border: 1px solid #dbdfe6;
+  border-radius: 30px;
+}
+
+.TeamScroll {
+  width: 100%;
+  margin-top: 55px;
+  height: 150px;
+  overflow-x: hidden;
+}
+
+.TeamScroll::-webkit-scrollbar {
+  width: 5px;
+  background-color: none;
+}
+
+.ContributionScroll {
+  width: 100%;
+  margin-top: 55px;
+  height: 230px;
+  overflow-x: hidden;
+}
+
+.ContributionScroll::-webkit-scrollbar {
+  width: 5px;
+  background-color: none;
+}
+
+.AlarmScroll {
+  width: 100%;
+  margin-top: 55px;
+  height: 265px;
+  overflow-x: hidden;
+}
+
+.AlarmScroll::-webkit-scrollbar {
+  width: 5px;
+  background-color: none;
+}
+
+.MyToDoScroll {
+  width: 100%;
+  margin-top: 55px;
+  height: 340px;
+  overflow-x: hidden;
+}
+
+.MyToDoScroll::-webkit-scrollbar {
+  width: 5px;
+  background-color: none;
+}

@@ -1,0 +1,122 @@
+.todoList {
+  display: flex;
+  border: 1px;
+  padding: 1% 3% 1%;
+  margin-top: 1%;
+  margin-left: 5%;
+  margin-right: 5%;
+  flex-direction: column;
+  align-items: center;
+}
+
+.todoList .state {
+  flex: 1;
+  text-align: center;
+  height: auto;
+  flex-direction: "column";
+  align-items: "center";
+}
+
+.todo-title {
+  float: left;
+  width: auto;
+  margin-bottom: 20px;
+}
+
+.todo-dday {
+  color: red;
+  float: right;
+}
+
+.todo-card {
+  margin: 5% auto 5% auto;
+  min-height: 130px;
+  max-height: auto;
+}
+
+.participants {
+  width: 250px;
+  float: left;
+  height: auto;
+}
+
+.td-participant-line {
+  float : left;
+  width: 50%;
+  margin-bottom : 15px;
+}
+
+.td-participant-img {
+  float :left;
+  width:20px;
+  height:20px;
+  margin-right : 7px;
+  border-radius: 15px;
+}
+
+.participant {
+  margin-bottom: 5px;
+  text-align: left;
+  float: left;
+  font-size: 14px;
+}
+
+.p1 {
+  text-align: left;
+  background-color: #FFD4C4;
+  padding:3px;
+  width: auto;
+  font-size: 25px;
+  border-radius: 3px;
+}
+
+.p2 {
+  text-align: left;
+  background-color: #DC9BEB;
+  padding:3px;
+  width: auto;
+  font-size: 25px;
+  border-radius: 3px;
+}
+
+.p3 {
+  text-align: left;
+  background-color: #B7EDCD;
+  padding:3px;
+  width: auto;
+  font-size: 25px;
+  border-radius: 3px;
+  text-align: center;
+}
+
+.todo-progress {
+  width: 500px;
+  height: 30px;
+  margin-bottom: 30px;
+}
+
+.todoScroll {
+  margin-top: 55px;
+  height: 700px;
+  overflow-x: hidden;
+}
+
+.todoScroll::-webkit-scrollbar {
+  width: 5px;
+  background-color: none;
+}
+
+.td-switch {
+ width: 100%;
+}
+
+.react-switch-bg {
+  width: 40px !important;
+  height: 10px !important;
+}
+
+.react-switch-handle {
+  width: 10px !important;
+  height: 10px !important;
+  border-color:black;
+}
